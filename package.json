@@ -1,0 +1,16 @@
+{
+  "name": "finch",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.4.0",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "vbvyas@gmail.com"
+}
